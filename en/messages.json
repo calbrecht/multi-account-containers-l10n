@@ -247,6 +247,18 @@
   "editWhichContainer": {
     "message": "Edit which Container is opened when using the numbered shortcuts."
   },
+  "sitekeyPatterns": {
+    "message": "Sitekey Patterns"
+  },
+  "sitekeyPattern": {
+    "message": "Sitekey Pattern"
+  },
+  "advancedSitekeyPatternsSettings": {
+    "message": "Advanced Sitekey Patterns settings"
+  },
+  "editSitekeyPatterns": {
+    "message": "Use RegExp groups like (?<my_key>.*) to influence key assignment for sites based on matches against parts of the site URL. A pattern matches if all given URL part RegExps have at least one match for each nonblank URL part."
+  },
   "keyboardShortCut": {
     "message": "Container to open with Keyboard Shortcut $keyId$",
     "placeholders": {
